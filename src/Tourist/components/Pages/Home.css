@@ -1,0 +1,83 @@
+.panda-bg-carousel {
+  background: #68dfbb;
+  /* background: #b9daff; */
+}
+.panda-bg-btn {
+  background: linear-gradient(180deg, #ff589b -0.01%, #ff136f 99.99%);
+}
+.panda-price {
+  color: #ff136f;
+}
+.panda-category img {
+  width: 100px;
+}
+.panda-bg-watch {
+  background: linear-gradient(152.07deg, #ff9c35 1.47%, #ffd019 97.17%);
+}
+
+.panda-bg-bag {
+  background: linear-gradient(180deg, #ff589b -0.01%, #ff136f 99.99%);
+}
+.panda-bg-shoes {
+  background: linear-gradient(170.41deg, #4289ff -10.89%, #3f07f8 92.77%);
+}
+.fluid-background {
+  background: #f4f4f4;
+}
+.panda-subscribe {
+  background: #fff2f1;
+  height: 455px;
+}
+
+/*
+==========================================
+   Contact area Design
+==========================================
+*/
+
+.contact .info i {
+  font-size: 20px;
+  color: var(--btn-color);
+  float: left;
+  width: 44px;
+  height: 44px;
+  background: #eef7ff;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  border-radius: 50px;
+  transition: all 0.3s ease-in-out;
+}
+
+.contact .info h4 {
+  padding: 0 0 0 60px;
+  font-size: 22px;
+  font-weight: 600;
+  margin-bottom: 5px;
+  color: #45505b;
+}
+
+.contact .info p {
+  padding: 0 0 0 60px;
+  margin-bottom: 0;
+  font-size: 14px;
+  color: #728394;
+}
+
+/*===== Variable Define =====*/
+:root {
+  --btn-color: #e76f51;
+  --white-color: #ffff;
+  --text-color: #6c6c6c;
+  --text-header: #e0e0e0;
+  --black-color: #000;
+  --primary-font: "Poppins", sans-serif;
+}
+/*
+==========================================
+   Footer area Design
+==========================================
+*/
+.footer-area {
+  background: #27272e;
+}
